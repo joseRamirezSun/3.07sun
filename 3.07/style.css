@@ -7,5 +7,10 @@ body
 }
 
 h1{
-    
+ font-size: 30PX
+ font-family: 'Times New Roman', Times, serif;
+}
+
+h2{
+    font-size: 30px;
 }
