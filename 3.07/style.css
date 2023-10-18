@@ -14,3 +14,10 @@ h1{
 h2{
     font-size: 30px;
 }
+lu{
+    font-size: 30px;
+}
+
+p {
+    border: 5px solid blue ;
+}
